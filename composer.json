@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "wisdmlabs\\todolist\\TodolistServiceProvider"
+                "TypedStateMachine\Laravel\TypedStateMachineServiceProvider"
             ]
         }
     }
