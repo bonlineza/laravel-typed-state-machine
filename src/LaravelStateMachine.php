@@ -9,9 +9,9 @@ use TypedStateMachines\StateMachine;
 
 class LaravelStateMachine extends StateMachine
 {
-	/**
+    /**
      * Overrides the fireEvent if StateMachine to use Laravel's event system.
-     * Shout out to @bagf for bagf/dynamic which made this neat and easy. 
+     * Shout out to @bagf for bagf/dynamic which made this neat and easy.
      * Give it a star!
      *
      * @param IEvent $event
