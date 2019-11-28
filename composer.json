@@ -17,6 +17,11 @@
             "email": "shaunmichaelvantonder@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "TypedStateMachine\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
