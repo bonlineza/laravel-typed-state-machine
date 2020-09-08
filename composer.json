@@ -3,7 +3,7 @@
     "description": "Laravel wrapper around bonlineza/typed-state-machine",
     "type": "library",
     "require": {
-        "laravel/framework": "~6.0",
+        "laravel/framework": "~6.0|~7.0|~8.0",
         "bonlineza/typed-state-machine": "^1.0",
         "bagf/dynamic": "dev-master"
     },
